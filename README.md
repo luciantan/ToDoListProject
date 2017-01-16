@@ -1,5 +1,4 @@
 # ToDoListProject
-
 Make a to do list using jQuery. 
 1. User can add new to-dos by typing in the input box and hitting the "enter" button.
 2. User can mark to-dos as completed by clicking on them.
